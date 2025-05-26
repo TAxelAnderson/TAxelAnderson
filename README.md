@@ -24,5 +24,5 @@ I am a high school student, and have been programming for the last two or three 
 </p>
 -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TAxelAnderson&rank_icons=github&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=TAxelAnderson&rank_icon=github&show_icons=true&theme=radical"/>
 </p>
