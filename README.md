@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋
 
 ```js
 const aboutMe = {
