@@ -2,7 +2,7 @@
 
 ```js
 const aboutMe = {
-  name: "Your Name",
+  name: "Tyler Anderson",
   role: "Web & iOS Developer",
   learning: ["C (Flipper Zero)"],
   tools: {
