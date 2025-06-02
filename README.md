@@ -5,7 +5,7 @@ const aboutMe = {
   name: "Tyler Anderson",
   role: "Web & iOS Developer",
   learning: ["C (Flipper Zero)"],
-  passions: ["Learning new skills"]
+  passions: ["Learning new skills"],
   tools: {
     web: ["HTML", "CSS", "JavaScript"],
     mobile: ["Swift", "Xcode"],
