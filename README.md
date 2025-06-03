@@ -1,5 +1,7 @@
 ## Hi there! 👋
 
+![Header](./github-header-img.png)
+
 ```js
 const aboutMe = {
   name: "Tyler Anderson",
