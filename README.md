@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-![Header](github-header-img.png)
+![Header](github-header-image.png)
 
 ```js
 const aboutMe = {
