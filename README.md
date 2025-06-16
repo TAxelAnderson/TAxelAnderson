@@ -12,6 +12,7 @@ const aboutMe = {
     web: ["HTML", "CSS", "JavaScript"],
     mobile: ["Swift", "Xcode"],
     embedded: ["C", "Flipper Zero SDK"],
+    other: ["Github", "Figma"],
   },
 };
 
