@@ -9,8 +9,8 @@ const aboutMe = {
   learning: ["C (Flipper Zero)"],
   passions: ["Learning new skills"],
   tools: {
-    web: ["HTML", "CSS", "JavaScript"],
-    mobile: ["Swift", "Xcode"],
+    web: ["HTML", "CSS", "SCSS", "JavaScript"],
+    mobile: ["Swift", "Xcode", "CoreML"],
     embedded: ["C", "Flipper Zero SDK"],
     other: ["Github", "Figma"],
   },
