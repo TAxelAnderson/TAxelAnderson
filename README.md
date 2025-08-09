@@ -1,7 +1,6 @@
 ## Hi there! 👋
-
-Welcome to my GitHub profile!  
-I'm Tyler Anderson — a passionate developer who enjoys learning new skills and building cool things. 🚀
+ 
+I'm Tyler — a passionate developer who enjoys learning new skills and building cool things. 🚀
 
 ---
 
